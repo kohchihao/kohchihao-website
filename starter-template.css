@@ -1,0 +1,42 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.image-cropper {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    border: 2px solid white;
+    -webkit-border-radius: 300px;
+    -moz-border-radius: 300px;
+    border-radius: 300px;
+    overflow:hidden;
+    margin: auto;
+}
+.my-picture {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
+}
+
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 47px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.progress-bar {
+	background-color: #E91E63;
+}
+
